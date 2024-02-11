@@ -1,4 +1,3 @@
-# .github
 **Seriuxmod Minecraft Java Client**
 
 Welcome to Seriuxmod, a collaborative project developed by a team of talented individuals. Our goal is to create a high-quality Minecraft Java Client that enhances the player experience and introduces new features and possibilities.
